@@ -1,3 +1,18 @@
+This software now has a frontend interface for easy support and setup. 
+
+Checkout the release of Xbox OG Kit for Windows!
+
+https://github.com/JustTrev/Xb2XInput/releases/tag/Xb2Input
+
+
+
+
+
+
+Credits:
+
+
+
 ## Xb2XInput - user-mode Xbox OG controller driver for Windows
 
 Xb2XInput is a small application that can translate the input from an Xbox OG controller over to a virtual XInput/DirectInput device for games to make use of, without needing any unsigned drivers to be installed!
