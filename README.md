@@ -1,4 +1,4 @@
-Xbox OG kit provides an easy solution to configura your Xbox OG controler from 2001 for Windows!
+Xbox OG kit provides an easy solution to configure your Xbox Original Controller from 2001 on Windows!
 
 Checkout the release of Xbox OG Kit for Windows!
 
