@@ -9,15 +9,12 @@ Checkout the release of Xbox OG Kit for Windows!
 
 Release: Xbox OG Kit v1.5c
 https://github.com/JustTrev/Xb2XInput/releases/tag/Xb2Input
-
-
-Credits:
-https://github.com/emoose/Xb2XInput
-https://github.com/ViGEm/ViGEmBus/releases
-
-​
+ 
+ 
+ -----
+ 
+ 
 Hey everyone,
-
  
 
 Just thought I'd share an application that hasn't seen much traction other than hard google searching lol; Xb2Input.  
