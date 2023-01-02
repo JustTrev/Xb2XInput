@@ -22,12 +22,7 @@ Hey everyone,
 
  
 
-Just thought I'd share an application that hasn't seen much traction other than hard google searching lol; Xb2Input. 
-
-After doing a few quick searches on the LTT forums, I wasn't able to find anything relatable that was public, so I think this might be a first post of its kind?... Please correct me if I am wrong and if the creator "emoose" can find my messages on GitHub, that would be wonderful 
-
- 
-
+Just thought I'd share an application that hasn't seen much traction other than hard google searching lol; Xb2Input.  
  
 
 I've never quite shared anything that I've written in the past before, which has me quite nervous/scared about it, and I've wanted to tip my hat into the community ring for a while.. I am very much a n00b when it comes to programming, please don't take this the wrong way as I've spent serval days working on a small C# project for the Xb2Input program (that was lovely written by emoose on Github).
