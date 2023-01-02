@@ -1,9 +1,7 @@
 This is only a fork off of Xb2Input. Last upload was Feb 1 2022. No progress has been made at this time.   TBD if this fork will go further.
 
-
-MAIN!!!
-
-Xbox OG kit provides an easy solution to configure your Xbox Original Controller from 2001 on Windows!
+ 
+Xbox OG kit provides an easy solution to configure your Xbox Original Controller from 2001 on Windows 10+!
 
 
 Checkout the release of Xbox OG Kit for Windows!
